@@ -78,7 +78,7 @@ function App() {
       <nav className="sticky top-0 bg-indigo-950 text-white text-center ">
         <h1>CV Application</h1>
       </nav>
-      <main className=" h-screen bg-gray-400 grid grid-cols-2 gap-20 ">
+      <main className="  bg-gray-400 grid grid-cols-2 gap-20 ">
         <div className="bg-purple-400">
           <Contact
             nameStateFn={setNameChange}
